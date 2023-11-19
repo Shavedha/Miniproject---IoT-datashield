@@ -1,5 +1,6 @@
 # project_mini
 
+
 ## AIM:
 The aim of Data Shield is to enhance IoT database maintenance and security through the integration of machine intelligence, ensuring data integrity, confidentiality, and availability in the Internet of Things ecosystem.
 
