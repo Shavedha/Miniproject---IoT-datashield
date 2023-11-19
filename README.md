@@ -345,6 +345,9 @@ df.head(50)
 ![image](https://github.com/Evangelin-Ruth/project_mini/assets/94219798/9ac6d92b-9053-4548-b834-9fa28e6fba8b)
 ![image](https://github.com/Evangelin-Ruth/project_mini/assets/94219798/989d4f48-8077-4c24-83b4-37c64a1cf83c)
 ![image](https://github.com/Evangelin-Ruth/project_mini/assets/94219798/2f0fd946-33af-4a6e-b1db-7398bf233ae3)
+![image](https://github.com/Evangelin-Ruth/project_mini/assets/94219798/11c4719f-3cc0-4f25-a132-178705fc4ca2)
+![image](https://github.com/Evangelin-Ruth/project_mini/assets/94219798/a496a9ac-0aec-41ff-a431-b0cb6712e9ed)
+
 
 ### FEATURE GENERATION
 ![image](https://github.com/Evangelin-Ruth/project_mini/assets/94219798/9984cc8a-b892-4780-9901-cee5da316def)
