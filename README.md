@@ -5,6 +5,20 @@
 The aim of Data Shield is to enhance IoT database maintenance and security through the integration of machine intelligence, ensuring data integrity, confidentiality, and availability in the Internet of Things ecosystem.
 
 ## THEOREY:
+These days, the most significant ways for critical infrastructures to increase service quality and productivity are through automation and remote control. Under this range, optimal precision, dependability, and security are necessary for the effective administration of IoT systems.The amount of data generated and stored has increased dramatically with the growth of IoT, necessitating effective database administration and strong security measures. IoT security may be jeopardized by a weak device, which allows hackers to get access to networked systems and obtain user passwords and important company information.In order to solve these issues, artificial intelligence (AI) and machine learning are essential. By automating processes linked to data management, analysis, and security, machine intelligence technologies can assist extract useful
+
+To identify anomalies, we have specifically employed the following methods:
+
+ Local Outlier Detection Autoencoders in Isolation Forests
+
+### ISOLATION FOREST
+
+Building a random forest of decision trees is how the isolation forest algorithm operates. To create each tree, random features are chosen, and splits are made to separate different instances within the dataset. Because they are more numerous and distinct, anomalies are more likely to be isolated early on in the growth of these trees, resulting in shorter paths. Normal cases, on the other hand, require more splits in order to isolate, leading to longer pathways. In the phase of anomaly detection, cases with shorter paths are classified as anomalies. Since this method does not rely on intricate density or distance calculations, it is particularly effective for high-dimensional datasets such as those seen in IoT traffic data. Detecting abnormalities in traffic datasets is made scalable and efficient by Isolation Forest, which also offers insights into odd patterns that can imply
+### LOCAL OUTLIER DETECTION
+Applying a robust anomaly detection algorithm to traffic statistics, the Local Outlier Factor (LOF) technique finds cases that dramatically depart from their local neighborhoods. Using this method, the density of each data point with respect to its neighbors is used to provide an outlier score. A data point with a high LOF score is probably an oddity since it has a density that is much lower than that of its neighbors. LOF takes into account the local context of every data point when applied to traffic datasets, identifying abnormalities that might not be obvious when analyzing the dataset as a whole. This is especially helpful for identifying localized abnormalities like unexpected slowdowns or sudden traffic bottlenecks.
+
+### AUTOENCODERS
+Neural network models called autoencoders are utilized for unsupervised learning, especially anomaly detection. The model is trained to reconstruct the input data, and they are composed of an encoder and a decoder. Analyzing the discrepancy between the input and the reconstructed output allows anomalies to be found.
 
 
 ## PROCEDURE:
@@ -322,7 +336,8 @@ df.head(50)
 
 ### Local Outlier Factor (LOF):
 ![image](https://github.com/Evangelin-Ruth/project_mini/assets/94219798/0a2063ca-ca3d-4923-9936-46fdc618cb36)
-### AUTOENCODER:
+
+###  Autoencoders:
 ![image](https://github.com/Evangelin-Ruth/project_mini/assets/94219798/9577bc57-9864-489f-bd8d-b3f1d303d712)
 ![image](https://github.com/Evangelin-Ruth/project_mini/assets/94219798/01720003-9c31-4d50-bbe9-8d938174ef15)
 ![image](https://github.com/Evangelin-Ruth/project_mini/assets/94219798/bdf1953c-df46-49a5-87c7-b9f27e80ee46)
@@ -331,9 +346,8 @@ df.head(50)
 ![image](https://github.com/Evangelin-Ruth/project_mini/assets/94219798/989d4f48-8077-4c24-83b4-37c64a1cf83c)
 ![image](https://github.com/Evangelin-Ruth/project_mini/assets/94219798/2f0fd946-33af-4a6e-b1db-7398bf233ae3)
 
-
-###  Autoencoders:
-
-
 ### FEATURE GENERATION
 ![image](https://github.com/Evangelin-Ruth/project_mini/assets/94219798/9984cc8a-b892-4780-9901-cee5da316def)
+
+## RESULT:
+Thus,Data Shield enhances IoT database maintenance and security using machine intelligence, ensuring robust data integrity, confidentiality, and availability within the Internet of Things ecosystem.
