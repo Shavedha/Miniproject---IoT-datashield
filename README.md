@@ -308,6 +308,13 @@ df.head(50)
 ![image](https://github.com/Evangelin-Ruth/project_mini/assets/94219798/14b027c8-9904-4733-8ebc-a08e6fddb933)
 ![image](https://github.com/Evangelin-Ruth/project_mini/assets/94219798/958fa8cd-e35a-4caa-ab5d-e9946ea2c4e4)
 ![image](https://github.com/Evangelin-Ruth/project_mini/assets/94219798/a9279f0e-b2a2-4397-b0a2-aa204d3d98de)
+![image](https://github.com/Evangelin-Ruth/project_mini/assets/94219798/7cbfb242-2ea4-4ba3-8096-3ee26e02f281)
+![image](https://github.com/Evangelin-Ruth/project_mini/assets/94219798/d9b2a106-a532-4d98-b8a4-507ccdc095ed)
+![image](https://github.com/Evangelin-Ruth/project_mini/assets/94219798/d5338b4a-2d89-4338-b760-c3a94ebe24f8)
+![image](https://github.com/Evangelin-Ruth/project_mini/assets/94219798/2fa81698-d438-4214-8061-4cee6587944e)
+![image](https://github.com/Evangelin-Ruth/project_mini/assets/94219798/5f2f0ef7-ebb9-4a3d-9669-95dd601f0de4)
+![image](https://github.com/Evangelin-Ruth/project_mini/assets/94219798/818ae100-f219-494f-a59e-64807e40a836)
+
 
 
 ### Isolation Forest:
