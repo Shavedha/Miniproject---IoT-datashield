@@ -322,6 +322,15 @@ df.head(50)
 
 ### Local Outlier Factor (LOF):
 ![image](https://github.com/Evangelin-Ruth/project_mini/assets/94219798/0a2063ca-ca3d-4923-9936-46fdc618cb36)
+### AUTOENCODER:
+![image](https://github.com/Evangelin-Ruth/project_mini/assets/94219798/9577bc57-9864-489f-bd8d-b3f1d303d712)
+![image](https://github.com/Evangelin-Ruth/project_mini/assets/94219798/01720003-9c31-4d50-bbe9-8d938174ef15)
+![image](https://github.com/Evangelin-Ruth/project_mini/assets/94219798/bdf1953c-df46-49a5-87c7-b9f27e80ee46)
+![image](https://github.com/Evangelin-Ruth/project_mini/assets/94219798/76517798-63b0-4930-8a4a-a36dc5c686da)
+![image](https://github.com/Evangelin-Ruth/project_mini/assets/94219798/9ac6d92b-9053-4548-b834-9fa28e6fba8b)
+![image](https://github.com/Evangelin-Ruth/project_mini/assets/94219798/989d4f48-8077-4c24-83b4-37c64a1cf83c)
+![image](https://github.com/Evangelin-Ruth/project_mini/assets/94219798/2f0fd946-33af-4a6e-b1db-7398bf233ae3)
+
 
 ###  Autoencoders:
 
