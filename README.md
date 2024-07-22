@@ -1,4 +1,4 @@
-# project_mini
+# Mini-Project
 
 
 ## AIM:
